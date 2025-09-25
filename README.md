@@ -1,12 +1,12 @@
-# cse3150-template
-`Homework/Lab Week: `
+# cse3150-week-4-lab
+`Lab Week: `
 
 `Name: Alistaire Noiprasit`
 
 <!-- INSERT CI PYTEST STATUS HERE -->
 
 I declare that:
-- this assessment item is my own work, except where acknowledged, and has not been submitted for
+- This assessment item is my own work, except where acknowledged, and has not been submitted for
 academic credit elsewhere
 - I certify that I have read and understood the University rules in respect of Student Academic
 Misconduct.
@@ -16,8 +16,8 @@ Misconduct.
 > This work is NOT ready for submission as of `Day XX MONTH 2025`. <br>
 -->
 > [!IMPORTANT]
-> This work is NOT ready for submission as of `<insert date>`. <br>
-> The final due date is `<insert date>`.
+> This work is ready for submission as of `25 Sep 2025`. <br>
+> The final due date is `25 Sep 2025`.
 
 SIGNED: ALISTAIRE NOIPRASIT
 
