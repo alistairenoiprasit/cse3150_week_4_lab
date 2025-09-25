@@ -1,9 +1,10 @@
-import os
-import subprocess
-import pytest
 
+import subprocess
+import os
+import pytest
 @pytest.fixture(scope="session", autouse=True)
 def compile_solution():
+    # Compile solution.cpp to ./solution
     exe_path = os.path.abspath("solution")  # absolute path to be safe
     cpp_path = os.path.abspath("solution.cpp")
 
@@ -16,7 +17,6 @@ def compile_solution():
     # Cleanup safely
     if os.path.exists(exe_path):
         os.remove(exe_path)
-
 def run_game(inputs: str):
     # Clean up old CSV
     if os.path.exists("game_output.csv"):
