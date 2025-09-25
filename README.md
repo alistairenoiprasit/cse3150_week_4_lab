@@ -23,4 +23,4 @@ SIGNED: ALISTAIRE NOIPRASIT
 
 AI Declaration:
 The github workflow automation was done using ChatGPT and is unrelated to course materials. 
-(I just want to automate tests for pull requests).
+(I just want to automate tests for pull requests). I also used AI in the generation of random change of flipping a weighted coin, which is explicitly commented in the code and permitted through the lab specifications)
